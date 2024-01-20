@@ -1,0 +1,12 @@
+{
+  "name": "yt-jvd",
+  "version": "7.0.0",
+  "description": "this, that and the other",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "download-album": "./index.mjs"
+  },
+  "authair": "someone-else",
+  "license": "ISC"
+}
